@@ -1,0 +1,22 @@
+ul
+    {
+    text-align:left;
+    color:purple;
+    font-family:Cambria;
+    font-size:xx-large;
+    text-indent:20px;
+    margin: 10px 0;
+    }
+ h2
+    {
+    text-align:center;
+    color:red;
+    text-decoration:underline;
+    text-transform:uppercase;
+    letter-spacing:-3px;
+    word-spacing:20px;
+    font-size:xx-large;
+    }
+button{
+font-size:x-large;
+}
